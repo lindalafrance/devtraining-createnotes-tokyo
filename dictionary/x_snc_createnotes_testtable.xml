@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="31c0de0347652110c34f2b92e36d43b8" extends="task" label="TestTable" max_length="40" name="x_snc_createnotes_testtable" type="collection">
+        <element attributes="encode_utf8=false" label="Caller" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+    </element>
+</database>
